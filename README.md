@@ -1,8 +1,7 @@
-# Welcome to movie-analysis repository
+# Building a Proof-of-Concept AI-Powered Video Analytics Engine for Content Creation   
 
 ## About
 
-This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on movies from [The Movie Database APIs](https://developers.themoviedb.org/3/getting-started). For detailed walkthrough, please view the source code in order from:
 
 1. [Data Extraction & Visualisation]()
    
@@ -14,8 +13,7 @@ This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial I
 
 ## Problem Definition
 
-- Are we able to predict if a movie is good (rating above 7.2) based on its attributes?
-- Which model would be the best to predict it?
+- 
 
 ## Models Used
 

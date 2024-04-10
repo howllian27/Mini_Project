@@ -14,8 +14,8 @@ This project focuses on developing an AI-powered analytics engine that leverages
   
 ## Contributors
 
-- [@howllian27](https://github.com/howllian27)
-- [@XeuniceX](https://github.com/XeuniceX)
+- [Chan Hin Wai Howell](https://github.com/howllian27)
+- [Lee Ern Qi Eunice](https://github.com/XeuniceX)
 
 ## Problem Definition
 

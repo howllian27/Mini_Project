@@ -35,6 +35,24 @@ This project focuses on developing an AI-powered analytics engine that leverages
 - Technical Skills: Gained proficiency in PyTorch and TensorFlow, mastering complex model architectures and data processing pipelines.
 - Analytical Skills: Enhanced our ability to translate business problems into data-driven solutions, improving our analytical and problem-solving skills.
 
+## Collaborating
+
+Checkout to a new feature branch when making changes.
+
+```bash
+# make sure you are on main
+git checkout -b <name>/<description>
+
+# integrate latest changes from collaborators on your feature branch
+git pull
+git rebase origin/main
+```
+
+Follow semantic commit messages when making commits: 📃 [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
+```bash
+git commit -m "<type>: <description>"
+```
 ## References
 
 - <https://www.kaggle.com/datasets/vicomtehorace/most-replayed-with-transcription-youtube-video>

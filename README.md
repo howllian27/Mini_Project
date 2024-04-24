@@ -5,6 +5,7 @@ This project focuses on developing an AI-powered analytics engine that leverages
 
 
 1. [Data Extraction & Visualisation](https://github.com/howllian27/Mini_Project/tree/main/src/data_collection)
+   - [Exploratory Data Analysis](https://github.com/howllian27/Mini_Project/tree/main/src/data_collection/data_visualisation.ipynb)
 2. [Model Training for Predicting View Count](https://github.com/howllian27/Mini_Project/blob/main/src/model_trainings/view_count_model.ipynb)
 3. [Model Training for Predicting Most Replayed Segments](https://github.com/howllian27/Mini_Project/blob/main/src/model_trainings/most_replayed_model.py)
 4. [Saved Model for Predicting View Count](https://github.com/howllian27/Mini_Project/blob/main/models/view_count_model.pth)

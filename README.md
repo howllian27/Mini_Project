@@ -15,9 +15,11 @@ This project focuses on developing an AI-powered analytics engine that leverages
   
 ## Contributors
 
-- [Chan Hin Wai Howell](https://github.com/howllian27): Machine Learning Models, Exploratory Data Analysis, Problem Definition
-- [Lee Ern Qi Eunice](https://github.com/XeuniceX): Machine Learning Models, Exploratory Data Analysis, Problem Definition
-- [Bryan Tao](https://github.com/bryan0021): Exploratory Data Analysis, Data Preparation & Cleaning
+| Name                | Contributions                                                          |
+| ------------------- | ---------------------------------------------------------------------- |
+| Chan Hin Wai Howell | Machine Learning Models, Exploratory Data Analysis, Problem Definition |
+| Lee Ern Qi Eunice   | Machine Learning Models, Exploratory Data Analysis, Problem Definition |
+| Bryan Tao           | Exploratory Data Analysis, Data Preparation & Cleaning                 |
 
 ## Problem Definition
 
